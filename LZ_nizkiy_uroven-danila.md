@@ -2,7 +2,7 @@
 Создал нежурналируемую таблицу в пользовательском табличном пространстве:
 ![avatar](https://sun9-58.userapi.com/impg/7oMnVqFmHO9y2GeN2_dJXTr078QwU7SLgmzNLA/Ot9pzVR7KNQ.jpg?size=609x179&quality=96&sign=49f04289dfea3c1cfac065f146e56ede&type=album)
 Убедилcя, что для таблицы существует слой init:
-![avatar](![image (10)](https://user-images.githubusercontent.com/113884588/200808708-78265f0a-a0bf-4eaa-88b1-ea30d85d560a.jpg))
+(![image (10)](https://user-images.githubusercontent.com/113884588/200808708-78265f0a-a0bf-4eaa-88b1-ea30d85d560a.jpg))
 Удалил созданное пространство:
 ![avatar](https://sun9-73.userapi.com/impg/zHRT5AetbkcUephQ2QcdlqEF1vHwk4-27bCsCw/am-G4AD-Ssk.jpg?size=615x102&quality=96&sign=bb637c2d5ba21bf5507219bfde2dc23d&type=album)
 ###### 2. Таблица с текстовым столбцом
