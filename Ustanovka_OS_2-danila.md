@@ -19,7 +19,7 @@
 ![avatar](https://sun9-51.userapi.com/impg/GZOLH-tEixtbplw_ZWVW1KLTsse7v9WdVqkw5w/3w2H_DIaKtc.jpg?size=807x665&quality=96&sign=f7444484de7783c5cc8832c182966f8d&type=album)
 ###### ШАГ 7.
 Идет настройка пользователя системы. Ввожу необходимые данные(имя, имя компьютера, имя пользователя и пароль) . Выбираю «Входить в систему автоматически» и нажимаю «Продолжить»
-![avatar](https://sun9-north.userapi.com/sun9-87/s/v1/ig2/_HHF0fO-t959kjAqOueGryRValNBM3afU57OOJI1BIyNu6gFUj9Mx1IbZrmbYPaIALh_0Olr-JuF5aCZpblzRo52.jpg?size=807x689&quality=96&type=album)
+(![image (11) (1)](https://user-images.githubusercontent.com/113884588/200809361-ca6329fc-28d3-4cbd-a34d-bfbda14514f9.jpg))
 ###### ШАГ 8.
 Начинается установка системы. После окончания установки, нажимаем «перезапустить систему» .
 ![avatar](https://sun9-80.userapi.com/impg/4alk-6JF3plFEI-p6d2bvHfqqlkynDmprWe-Jg/k30eXxsTUY0.jpg?size=807x673&quality=96&sign=57734947761995ad8319f58c1462ea8e&type=album)
