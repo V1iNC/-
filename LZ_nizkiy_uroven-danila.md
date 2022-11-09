@@ -1,8 +1,8 @@
 ###### 1. Нежурналируемая таблица
 Создал нежурналируемую таблицу в пользовательском табличном пространстве:
 ![avatar](https://sun9-58.userapi.com/impg/7oMnVqFmHO9y2GeN2_dJXTr078QwU7SLgmzNLA/Ot9pzVR7KNQ.jpg?size=609x179&quality=96&sign=49f04289dfea3c1cfac065f146e56ede&type=album)
-Убедилcz, что для таблицы существует слой init:
-![avatar](https://sun9-44.userapi.com/impg/8uqv9c89DOU-DkVoti0DECBun7J0w83T-KTx4g/VSSfz64heUg.jpg?size=681x72&quality=96&sign=d50abf0f12ba43b54424330e2e39c851&type=album)
+Убедилcя, что для таблицы существует слой init:
+![avatar](![image (10)](https://user-images.githubusercontent.com/113884588/200808547-6a7de4bc-533d-4fba-86bc-d2a43311c206.jpg))
 Удалил созданное пространство:
 ![avatar](https://sun9-73.userapi.com/impg/zHRT5AetbkcUephQ2QcdlqEF1vHwk4-27bCsCw/am-G4AD-Ssk.jpg?size=615x102&quality=96&sign=bb637c2d5ba21bf5507219bfde2dc23d&type=album)
 ###### 2. Таблица с текстовым столбцом
