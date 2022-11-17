@@ -14,8 +14,7 @@ PostgreSQL работает под управлением операционно
 Одна транзакция блокирует первую строку таблицы.Затем другая транзакция блокирует вторую строку.Теперь первая транзакция пытается изменить вторую строку и ждет ее освобождения.А вторая транзакция пытается изменить первую строку.Происходит взаимоблокировка:
 ![avatar](https://sun9-76.userapi.com/impg/1M-wpXJURv1ZXtslhSHQWYyKJgIQEi6GttUujQ/xtCRfBVax5Q.jpg?size=550x187&quality=96&sign=69969fdefeb8b340c96760ddbc1800c1&type=album)
 Необходимо просмотреть журнал сообщений:
-![avatar](![image](https://user-images.githubusercontent.com/113884588/202393377-921a7b5e-395c-4bd8-aaca-aacfbafd6cb9.png)
-)
+![avatar](![image](https://user-images.githubusercontent.com/113884588/202393377-921a7b5e-395c-4bd8-aaca-aacfbafd6cb9.png))
 Расширение pg_stat_statements - собирает статистику планирования и выполнения всех запросов. Для работы расширения требуется загрузить одноименный модуль. Для этого имя модуля нужно прописать в параметре shared_preload_libraries и перезагрузить сервер. Изменять этот параметр лучше в файле postgresql.conf, но для целей демонстрации установим параметр с помощью команды ALTER SYSTEM.
 ![avatar](![image](https://user-images.githubusercontent.com/113884588/202393464-196bfede-51ef-4e3a-b895-4ca10448322e.png))
 Создал EXTENSION и выполнил несколько запросов:
