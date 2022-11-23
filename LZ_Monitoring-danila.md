@@ -21,6 +21,5 @@ PostgreSQL работает под управлением операционно
 ![avatar](https://sun9-65.userapi.com/impg/d8HdIX94upiRa5c6LUW_YBt2TrRuAS_gyem4cA/N6NngGOI5Cs.jpg?size=409x225&quality=96&sign=d888ae2a1518c1b8edb21808a7059cdc&type=album)
 Затем посмотрела на статистику запроса, который выполнялся чаще всего:
 ![avatar](https://sun9-30.userapi.com/impg/pcYaTubbQziiSnEc77hvk72KOlwYtfoUoY_mWA/0LaAlDY4VI8.jpg?size=537x382&quality=96&sign=94e90e5f9dd32f15c4e3514037e09269&type=album)
-.
 
 
